@@ -18,5 +18,5 @@ $ yarn start
 
 ```bash
 # Styled-Componente
-$ Doc of styled-componentes [click here](https://styled-components.com/docs)
+$ Doc of styled-componentes https://styled-components.com/docs
 ```
